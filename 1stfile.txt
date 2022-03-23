@@ -1,0 +1,2 @@
+This is my first scm file.
+Changing its conents after commiting it.
