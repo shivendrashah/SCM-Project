@@ -1,10 +1,1 @@
-My Name is Shivendra Kumar Shah. I'm 1st Year Student and Studying B.Tech CSE.
-git add file1.txt
-
-
-
-
-
-
-;
-:
+Line written in master
